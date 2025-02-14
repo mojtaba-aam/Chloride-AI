@@ -3,4 +3,4 @@ Quantitative Description of Chloride Ingress in Concrete Using Machine Learning 
 
 The dataset and executable application for the above paper are provided in this repository.
 
-The latest version of the application is available at DOI: 10.17632/jnp4jn3s9z.1.
+The latest version of the application is available at https://data.mendeley.com/datasets/jnp4jn3s9z/1 with DOI: 10.17632/jnp4jn3s9z.1.
